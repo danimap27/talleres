@@ -1,5 +1,6 @@
 # Guía de Instalación de Dual Boot Windows y Ubuntu
 Guia para instalar dual boot Windows y Ubuntu. Personalizar ubuntu para rendimiento de desarrollador.
+
 ## Requisitos del Sistema
 Asegúrate de que tu sistema cumple con los siguientes requisitos antes de comenzar la instalación:
 - **Sistema Operativo:** [Windows](https://www.mediafire.com/file/i026wqg4coyqw59/Windows+10+LTSC+2021.iso/file) y [Ubuntu](https://ubuntu.com/download/desktop).
